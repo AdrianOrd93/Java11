@@ -1,6 +1,6 @@
 package tasks;
 
-public class Task2 {
+public class Task2Variables {
     public static void main(String[] args) {
         int[] tab = new int[3];
         tab[0] = 2;
